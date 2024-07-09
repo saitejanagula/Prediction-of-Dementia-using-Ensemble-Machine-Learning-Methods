@@ -6,3 +6,4 @@ Our approach involved analyzing relevant data including medical history, cogniti
 
 The objective is to contribute to advancements in dementia prediction tools, enabling earlier diagnoses and potentially slowing down disease progression. This project addresses the limitations of traditional diagnostic methods by offering a more efficient and potentially cost-effective approach to identifying individuals at risk of dementia.
 
+![image](https://github.com/saitejanagula/Prediction-of-Dementia-using-Ensemble-Machine-Learning-Methods/assets/174994623/bf98b471-5863-4903-8a0c-8be4bbdc5908)
