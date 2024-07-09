@@ -16,3 +16,6 @@ HERE THE PATIENT IS NOT DEMENTED
 
 HERE THE PATIENT IS DEMENTED
 ![image](https://github.com/saitejanagula/Prediction-of-Dementia-using-Ensemble-Machine-Learning-Methods/assets/174994623/298b9128-5ac1-4e55-968f-762a2e299daa)
+
+THE RESULT ANALYSIS
+![image](https://github.com/saitejanagula/Prediction-of-Dementia-using-Ensemble-Machine-Learning-Methods/assets/174994623/67e84acf-56c4-45f1-a05d-bd19b03b1514)
